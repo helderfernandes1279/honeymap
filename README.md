@@ -1,3 +1,11 @@
+This is an adapted version of HoneyMap to IntelMQ, Information about the original project is bellow
+
+
+The original repository can be found at https://github.com/fw42/honeymap
+
+
+
+
 HoneyMap
 ========
 
