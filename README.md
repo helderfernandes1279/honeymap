@@ -1,4 +1,10 @@
-This is an adapted version of HoneyMap to IntelMQ, Information about the original project is bellow
+This is an adapted version of HoneyMap to IntelMQ, Information about the original project is bellow.
+
+This map can be used with intelmq output bot honeymap(intelmq/bots/IntelMQAgent/honeymap.py)
+
+Honeymap will listen in two ports, port TCP 3000 will be used to access the honeymap with a web-browser
+
+Port TCP 3333 will be used to receive the events from intelmq honeymap output bot.
 
 
 The original repository can be found at https://github.com/fw42/honeymap
